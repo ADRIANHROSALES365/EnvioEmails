@@ -1,0 +1,3 @@
+#Ignorar el archivo de Sincronizacion de OneDrive de la carpeta de git
+
+.DS_Store
